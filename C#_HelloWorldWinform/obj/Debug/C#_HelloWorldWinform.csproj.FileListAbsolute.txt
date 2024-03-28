@@ -1,0 +1,10 @@
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\bin\Debug\C#_HelloWorldWinform.exe.config
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\bin\Debug\C#_HelloWorldWinform.exe
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\bin\Debug\C#_HelloWorldWinform.pdb
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\obj\Debug\C#_HelloWorldWinform.csproj.AssemblyReference.cache
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\obj\Debug\C#_HelloWorldWinform.csproj.SuggestedBindingRedirects.cache
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\obj\Debug\C__HelloWorldWinform.Properties.Resources.resources
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\obj\Debug\C#_HelloWorldWinform.csproj.GenerateResource.cache
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\obj\Debug\C#_HelloWorldWinform.csproj.CoreCompileInputs.cache
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\obj\Debug\C#_HelloWorldWinform.exe
+C:\Users\seyeon\Documents\C#_HelloWorldWinform\C#_HelloWorldWinform\obj\Debug\C#_HelloWorldWinform.pdb
